@@ -1,11 +1,10 @@
 import random
-words = ["bird", "falcon", "eagle", "fish", "salmon", "bear", "whale","shark", "cheetah",
-	"dolphin", "pony", "horse", "donkey","ape", "gorilla","monkey", "lobster","cow",
-	"deer", "duck","rabbit", "bunny", "spider", "beetle", "wolf", "turkey", "lion",
-	"tiger", "pig", "snake", "chicken", "cat", "dog","crocodile", "alligator",
-	"hippopotamus", "jaguar", "octopus","penguin", "tortoise", "turtle", "hamster",
-	"gecko", "rhino","panda", "racoon", "elephant", "reindeer", "fox", "moose",
-	"squirrel", "sheep", "rat", "mouse", "python"]
+words = ["ant","baboon","badger","bat","bear","beaver","camel","cat","clam","cobra","cougar",
+       "coyote","crow","deer","dog","donkey","duck","eagle","ferret","fox","frog","goat","goose","hawk",
+       "lion","lizard","llama","mole","monkey","moose","mouse","mule","newt","otter","owl","panda",
+       "parrot","pigeon","python","rabbit","ram","rat","raven","rhino","salmon","seal","shark","sheep",
+       "skunk","sloth","snake","spider","stork","swan","tiger","toad","trout","turkey","turtle",
+       "weasel","whale","wolf","wombat","zebra"]
 letters = "abcdefghijklmnopqrstuvwxyz"
 let = []
 lives = 10
