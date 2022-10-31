@@ -1,7 +1,11 @@
 import random
-file = open("../Çalışmalarım/Most Common 500.txt", "r")
-words = file.readlines()
-file.close()
+words = ["bird", "falcon", "eagle", "fish", "salmon", "bear", "whale","shark", "cheetah",
+	"dolphin", "pony", "horse", "donkey","ape", "gorilla","monkey", "lobster","cow",
+	"deer", "duck","rabbit", "bunny", "spider", "beetle", "wolf", "turkey", "lion",
+	"tiger", "pig", "snake", "chicken", "cat", "dog","crocodile", "alligator",
+	"hippopotamus", "jaguar", "octopus","penguin", "tortoise", "turtle", "hamster",
+	"gecko", "rhino","panda", "racoon", "elephant", "reindeer", "fox", "moose",
+	"squirrel", "sheep", "rat", "mouse", "python"]
 letters = "abcdefghijklmnopqrstuvwxyz"
 let = []
 lives = 10
